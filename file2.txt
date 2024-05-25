@@ -1,6 +1,1 @@
-qwerfg
-ldjfdfjajf;aj;lf
-mdfdnafnafnafn
-amnfna.fna.fn.
-fdmafn.fna.fn.
-
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIHC3kl3gGV0dYRFZO2WWT/mwQZrGFt938JJ3AxNTDUqr sergey@localhost.localdomain
